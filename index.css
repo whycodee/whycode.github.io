@@ -921,8 +921,8 @@ footer span a:hover{
     } */
     
     .about .about-content .column-center a{
-        font-size: 15px;
-        padding: 7px 25px;
+        font-size: 18px;
+        padding: 9px 27px;
     }
     
     
@@ -933,7 +933,7 @@ footer span a:hover{
     
     .skills .skills-content .column-left a{
         font-size: 15px;
-        padding: 7px 14px;
+        padding: 9px 18px;
     }
     
     .skills .skills-content .column-left,
